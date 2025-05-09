@@ -25,4 +25,8 @@ func main () {
 	fmt.Println(string(s))
 	fmt.Println(string(vector))
 
+	// valor de bytes
+
+	fmt.Printf()
+
 }
