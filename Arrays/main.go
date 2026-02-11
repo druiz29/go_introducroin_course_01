@@ -47,7 +47,7 @@ func main() {
 	fmt.Println(myArray[:4])
 	fmt.Println(myArray[2:])
 
-	slice := make([]int, 3)
+	slice := make([]int, 9)
 	fmt.Println(slice)
 	fmt.Printf("size: %d, value: %v\n", len(slice),slice)
 }
