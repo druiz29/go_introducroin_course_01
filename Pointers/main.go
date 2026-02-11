@@ -84,3 +84,7 @@ func updateStruct(s *myStruct){
 	s.Id = 123
 	s.Name = "updated"
 }
+
+
+func stageLambda() func() {
+	
